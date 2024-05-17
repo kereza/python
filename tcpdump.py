@@ -3,6 +3,8 @@ import re, sys, getopt
 
 from operator import itemgetter
 
+
+
 def receiving(file):
     f = open(file, 'r')
 
